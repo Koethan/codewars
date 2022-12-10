@@ -33,3 +33,4 @@ function lastSurvivor(letters, coords) {
 //       letters = letters.substr(0, c) + letters.substr(c+1);
 //     return letters;
 //   }
+//this is a test
