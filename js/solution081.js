@@ -43,4 +43,4 @@ function howMuchILoveYou(nbPetals) {
 
 // function howMuchILoveYou(n) {
 //      return phrases[(n - 1) % phrases.length] 
-// }
+// }//gets the answer directly from the array using index. you minus 1 from the argument to account for 0 indexing then you use modulus by the length of the array and the remainder that you get is the  index which the answer is found, eg. 8-1 = 7%6 = phrases[1]/ 22-1 = 21%6 = phrases[3]/ 42 -1 = 41%6 = phrases[5]
